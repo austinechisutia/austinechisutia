@@ -50,7 +50,6 @@
 <details>
 <summary>📜 View Certifications</summary>
   
-- **AWS Certified Cloud Practitioner** (Expected 2024)  
 - **Google IT Support Professional Certificate** (2023)  
 - **FreeCodeCamp Front End Certification** (2022)  
 </details>
@@ -64,14 +63,18 @@
 - **Best UI Award** - University Hackathon (2021)  
 </details>
 
-### Open Source Contributions
-<details>
-<summary>🌍 View Contributions</summary>
-  
-- Contributed to [Project Name] (Fixed bug #123)  
-- Reported critical vulnerability in [Library Name]  
-- Maintainer of [Your Project] (50+ stars)  
-</details>
+## 🏆 Achievement Circles
+
+<div align="center">
+
+### 🔵 Skill Mastery
+| ![Frontend](https://img.shields.io/badge/Frontend-85%25-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Backend](https://img.shields.io/badge/Backend-72%25-339933?style=flat-square&logo=node.js&logoColor=white) | ![Cloud](https://img.shields.io/badge/Cloud-55%25-FF9900?style=flat-square&logo=aws&logoColor=white) |
+|:---:|:---:|:---:|
+
+### 🟢 GitHub Stats
+```text
+  ■■■■■■■■□□ 80%  Coding Days  │  ■■■■■■□□□□ 60%  Open Source
+  ■■■■■□□□□□ 50%  Certificates  │  ■■■■■■■■■■ 100%  Consistency
 ## 🌱 Current Projects
 
 - 🔥 [Project Name](https://github.com/austinechisutia/project) - Short description
