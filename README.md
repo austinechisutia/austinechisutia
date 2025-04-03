@@ -1,3 +1,4 @@
+![GitHub Banner](https://your-image-url.com/banner.png)
 
 # 👋 Hello, I'm Austine Akhonya!
 
@@ -40,9 +41,9 @@
 
 ## 📊 GitHub Stats
 
-![Austine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustineAkhonya&show_icons=true&theme=dark&count_private=true&rank_icon=github)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustineAkhonya&layout=compact&theme=dark&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=AustineAkhonya&theme=dark&fire=DD2727&currStreakNum=F6C324&border=DD2727&stroke=F6C324)
+| 🔥 Streak | 📈 Stats | 🚀 Top Languages |
+|-----------|---------|-----------------|
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=AustineAkhonya&theme=dark&fire=DD2727&currStreakNum=F6C324&border=DD2727&stroke=F6C324) | ![Austine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustineAkhonya&show_icons=true&theme=dark&count_private=true&rank_icon=github) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustineAkhonya&layout=compact&theme=dark&count_private=true) |
 
 ---
 
