@@ -1,55 +1,55 @@
-# Hey there! 👋 I'm [Your Name]  
+# Hi there, I'm [Your Name]! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Profile%20Stars&style=social)](https://github.com/yourusername)
+[![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yourusername)
+[![Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
-I'm a [your profession/role, e.g., Software Developer | Data Enthusiast | Full-Stack Wizard] passionate about [your interests, e.g., building scalable apps, solving complex problems, or exploring AI]. Welcome to my GitHub corner—where code meets creativity!
+🚀 Passionate [Your Profession/Role] specializing in [Your Specialties]. Dedicated to crafting elegant solutions to complex problems.
 
----
+## 🔧 Technologies & Tools
 
-## 🚀 About Me  
-- 🌍 Based in [Your Location]  
-- 💻 Currently working on [your current project or focus]  
-- 🌱 Learning [tech/skills you're exploring, e.g., Rust, Machine Learning, etc.]  
-- ⚡ Fun fact: [something quirky about you, e.g., I can code with one hand while sipping coffee!]  
-- 📫 Reach me at: [your email or social link]  
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
----
+### 🛠️ Frameworks & Technologies
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-*(Add or remove badges based on your skills! Check [shields.io](https://shields.io/) for more.)*
+## 📈 GitHub Stats
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-## 🌟 Featured Projects  
-### [Project Name 1](link-to-repo)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername/repo-name?style=social)  
-A short description of what it does and why it’s awesome.  
-- Tech: [e.g., Python, Flask, MongoDB]  
-- [Live Demo](link) | [Repo](link)
+## 🏆 GitHub Trophies
 
-### [Project Name 2](link-to-repo)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername/repo-name?style=social)  
-Brief overview of this project’s coolness.  
-- Tech: [e.g., React, Node.js, AWS]  
-- [Live Demo](link) | [Repo](link)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=3)
 
----
+## 🌱 Current Projects
 
-## 📊 GitHub Stats  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+- 🔥 [Project Name](https://github.com/yourusername/project) - Short description
+- 🚀 [Project Name](https://github.com/yourusername/project) - Short description
+- 💡 [Project Name](https://github.com/yourusername/project) - Short description
 
----
+## 📫 How to Reach Me
 
-## 🤝 Let’s Connect!  
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](your-linkedin-link)  
-[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](your-twitter-link)  
-[<img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white" />](your-portfolio-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
----
+## 💻 Coding Activity
 
-⭐️ *If you like what you see, give my repos a star! It fuels my coding adventures.*  
+<!--START_SECTION:waka-->
+```text
+🚀 This Week I Spent My Time On:
+• Python      25 hrs 15 mins  ███████████████████░░░░░░   75.45%
+• JavaScript  5 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   16.42%
+• TypeScript  2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   8.13%
