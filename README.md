@@ -1,5 +1,4 @@
 
-
 # 👋 Hello, I'm Austine Akhonya!
 
 🚀 **Web Developer | Graphic Designer | Videographer**  
@@ -33,6 +32,7 @@
 🎖 **Top Web Developer Award** - Recognized for outstanding contributions in web development.  
 🏅 **100+ GitHub Contributions in a Month** - Achieved consistent contributions streak.  
 📜 **Certified JavaScript Developer** - Successfully completed advanced JavaScript certification.  
+🔥 **300+ Days GitHub Streak** - Maintaining an impressive streak of daily contributions.  
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AustineAkhonya&theme=darkhub&margin-w=15)  
 
@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 
-![Austine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustineAkhonya&show_icons=true&theme=dark&count_private=true)  
+![Austine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustineAkhonya&show_icons=true&theme=dark&count_private=true&rank_icon=github)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustineAkhonya&layout=compact&theme=dark&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=AustineAkhonya&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AustineAkhonya&theme=dark&fire=DD2727&currStreakNum=F6C324&border=DD2727&stroke=F6C324)
 
 ---
 
