@@ -1,1 +1,1 @@
-<h1 align="center">👋 Hello there, my name is Austine Akhonya 🇰🇪</h1>
+<h1 align="center">👋 Hello there, my name is Austine Akhonya <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/512px-Flag_of_Kenya.svg.png" alt="Kenya Flag" width="30" height="20"></h1>
