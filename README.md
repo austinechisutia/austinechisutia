@@ -43,8 +43,7 @@
 
 ## 🏆 Achievements
 
-### GitHub
-[![Achievements](https://github-profile-trophy.vercel.app/?username=austinechisutia&theme=radical&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Certifications
 <details>
@@ -68,7 +67,7 @@
 <div align="center">
 
 ### 🔵 Skill Mastery
-| ![Frontend](https://img.shields.io/badge/Frontend-85%25-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Backend](https://img.shields.io/badge/Backend-72%25-339933?style=flat-square&logo=node.js&logoColor=white) | ![Cloud](https://img.shields.io/badge/Cloud-55%25-FF9900?style=flat-square&logo=aws&logoColor=white) |
+| ![Frontend](https://img.shields.io/badge/Frontend-85%25-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Backend](https://img.shields.io/badge/Backend-7%25-339933?style=flat-square&logo=node.js&logoColor=white) | ![Cloud](https://img.shields.io/badge/Cloud-5%25-FF9900?style=flat-square&logo=aws&logoColor=white) |
 |:---:|:---:|:---:|
 
 ### 🟢 GitHub Stats
@@ -76,11 +75,7 @@
   ■■■■■■■■□□ 80%  Coding Days  │  ■■■■■■□□□□ 60%  Open Source
   ■■■■■□□□□□ 50%  Certificates  │  ■■■■■■■■■■ 100%  Consistency
 
-## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austine-chisutia-070652332/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/WattsTen)
-[!
 ## 💻 Coding Activity
 
 <!--START_SECTION:waka-->
