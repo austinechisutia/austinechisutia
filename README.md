@@ -26,9 +26,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=austinechisutia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues&rank_icon=github&custom_title=Austine's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinechisutia&layout=compact&langs_count=8&theme=radical&hide=procfile&card_width=300"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/austinechisutia/austinechisutia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/austinechisutia/austinechisutia/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/austinechisutia/austinechisutia/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=austinechisutia&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=585858" alt="GitHub Streak" />
