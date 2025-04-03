@@ -75,18 +75,12 @@
 ```text
   ■■■■■■■■□□ 80%  Coding Days  │  ■■■■■■□□□□ 60%  Open Source
   ■■■■■□□□□□ 50%  Certificates  │  ■■■■■■■■■■ 100%  Consistency
-## 🌱 Current Projects
-
-- 🔥 [Project Name](https://github.com/austinechisutia/project) - Short description
-- 🚀 [Project Name](https://github.com/austinechisutia/project) - Short description
-- 💡 [Project Name](https://github.com/austinechisutia/project) - Short description
 
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austine-chisutia-070652332/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/WattsTen)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:austiineakhonya638@gmail.com)
-
+[!
 ## 💻 Coding Activity
 
 <!--START_SECTION:waka-->
