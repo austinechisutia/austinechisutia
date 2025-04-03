@@ -1,4 +1,15 @@
-# Hi there, I'm Austine! 👋
+<h1 align="center">Hi there, I'm Austine! 👋</h1>
+<p align="center">
+  <a href="https://x.com/WattsTen" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/austine-chisutia-070652332/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 [![GitHub Stars](https://img.shields.io/github/stars/austinechisutia?label=Profile%20Stars&style=social)](https://github.com/austinechisutia)
 [![Visitors](https://komarev.com/ghpvc/?username=austinechisutia&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/austinechisutia)
