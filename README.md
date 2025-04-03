@@ -31,8 +31,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=austinechisutia&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=585858" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austinechisutia&theme=radical&hide_border=true&background=45%2C1CEBE6%2C1C1CE6&stroke=FFFFFF&ring=FFC600&fire=FFC600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC600&sideLabels=FFC600&dates=9E9E9E" alt="GitHub Streak Stats" />
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=austinechisutia&theme=default&hide_border=true&background=FFFFFF&stroke=1DA1F2&ring=1DA1F2&fire=1DA1F2&currStreakNum=000000&sideNums=000000&currStreakLabel=1DA1F2" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=austinechisutia&theme=dark&hide_border=true&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFA500" alt="GitHub Streak Stats" />
 
 <!-- Snake eating contribution graph -->
 
