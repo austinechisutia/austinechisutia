@@ -24,14 +24,11 @@
 [![GSAP](https://img.shields.io/badge/GSAP-00C04B?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
 
 ## 📈 GitHub Stats
-![Austine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustineAkhonya&show_icons=true&theme=dark&count_private=true&rank_icon=github)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AustineAkhonya&theme=dark&fire=DD2727&currStreakNum=F6C324&border=DD2727&stroke=F6C324)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustineAkhonya&layout=compact&theme=dark&count_private=true)
 
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/AustineAkhonya/AustineAkhonya/output/github-contribution-grid-snake-dark.svg)
-
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=austinechisutia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues&rank_icon=github&custom_title=Austine's%20GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinechisutia&layout=compact&langs_count=8&theme=radical&hide=procfile&card_width=300"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=austinechisutia&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=585858" alt="GitHub Streak" />
