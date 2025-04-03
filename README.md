@@ -1,4 +1,4 @@
-![GitHub Banner](https://your-image-url.com/banner.png)
+
 
 # 👋 Hello, I'm Austine Akhonya!
 
@@ -25,6 +25,16 @@
 🔹 **GitHub Profile API Integration** - Fetching dynamic user data using Firebase and MTDb.
 
 💻 Check out my projects: [GitHub Repositories](https://github.com/AustineAkhonya?tab=repositories)
+
+---
+
+## 🏆 Achievements & Badges
+
+🎖 **Top Web Developer Award** - Recognized for outstanding contributions in web development.  
+🏅 **100+ GitHub Contributions in a Month** - Achieved consistent contributions streak.  
+📜 **Certified JavaScript Developer** - Successfully completed advanced JavaScript certification.  
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AustineAkhonya&theme=darkhub&margin-w=15)  
 
 ---
 
