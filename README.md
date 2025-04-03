@@ -1,8 +1,8 @@
 # Hi there, I'm Austine! 👋
 
-[![GitHub Stars](https://img.shields.io/github/stars/WattsTen?label=Profile%20Stars&style=social)](https://github.com/WattsTen)
-[![Visitors](https://komarev.com/ghpvc/?username=WattsTen&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/WattsTen)
-[![Follow](https://img.shields.io/github/followers/WattsTen?label=Follow&style=social)](https://github.com/WattsTen)
+[![GitHub Stars](https://img.shields.io/github/stars/austinechisutia?label=Profile%20Stars&style=social)](https://github.com/austinechisutia)
+[![Visitors](https://komarev.com/ghpvc/?username=austinechisutia&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/austinechisutia)
+[![Follow](https://img.shields.io/github/followers/austinechisutia?label=Follow&style=social)](https://github.com/austinechisutia)
 
 🚀 Passionate developer specializing in frontend development. Dedicated to crafting elegant solutions to complex problems.
 
@@ -26,29 +26,28 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WattsTen&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues&rank_icon=github&custom_title=Austine's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WattsTen&layout=compact&langs_count=8&theme=radical&hide=procfile&card_width=300"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=austinechisutia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues&rank_icon=github&custom_title=Austine's%20GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinechisutia&layout=compact&langs_count=8&theme=radical&hide=procfile&card_width=300"/>
 </div>
 
-<!-- Customized stats with grade B and increased numbers -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WattsTen&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=585858" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=austinechisutia&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&dates=585858" alt="GitHub Streak" />
 </div>
 
 <!-- Snake eating contribution graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WattsTen/WattsTen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/austinechisutia/austinechisutia/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=WattsTen&theme=radical&no-frame=true&row=2&column=3&rank=B)
+![Trophies](https://github-profile-trophy.vercel.app/?username=austinechisutia&theme=radical&no-frame=true&row=2&column=3&rank=B)
 
 ## 🌱 Current Projects
 
-- 🔥 [Project Name](https://github.com/WattsTen/project) - Short description
-- 🚀 [Project Name](https://github.com/WattsTen/project) - Short description
-- 💡 [Project Name](https://github.com/WattsTen/project) - Short description
+- 🔥 [Project Name](https://github.com/austinechisutia/project) - Short description
+- 🚀 [Project Name](https://github.com/austinechisutia/project) - Short description
+- 💡 [Project Name](https://github.com/austinechisutia/project) - Short description
 
 ## 📫 How to Reach Me
 
