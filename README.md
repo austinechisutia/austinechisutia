@@ -1,71 +1,38 @@
-<h1 align="center">Hi 👋, I'm Austine Akhonya 🇰🇪</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+# 👋 Hello, I'm [Your Name]!
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=austinechisutia&label=Profile%20views&color=0e75b6&style=flat" alt="austinechisutia" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=austinechisutia" alt="austinechisutia" />
-  </a>
-</p>
+## 🌟 About Me
+I'm a passionate [Your Profession/Role] with a love for [Your Interests/Technologies]. I enjoy building [type of projects you like] and exploring new technologies. When I'm not coding, you can find me [your hobbies or interests].
 
-<p align="center">
-  <a href="https://twitter.com/https://x.com/wattsten" target="blank">
-    <img src="https://img.shields.io/twitter/follow/https://x.com/wattsten?logo=twitter&style=for-the-badge" alt="https://x.com/wattsten" />
-  </a>
-</p>
+- 🔭 I’m currently working on [Project Name or Description]
+- 🌱 I’m currently learning [New Technology or Skill]
+- 👯 I’m looking to collaborate on [Type of Projects or Technologies]
+- 🤔 I’m looking for help with [Any specific area you need help with]
+- 💬 Ask me about [Topics you are knowledgeable about]
+- 📫 How to reach me: [Your Email or Contact Method]
+- ⚡ Fun fact: [A fun fact about yourself]
 
----
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on **live eventing website**
-- 🌱 I’m currently learning **Javascript and React**
-- 💬 Ask me about **react, javascript, and gsap**
-- 📫 How to reach me: **austineakhonya638@gmail.com**
-- ⚡ Fun fact: **I think I'm funny**
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
----
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Personal Website](https://yourwebsite.com)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/https://x.com/wattsten" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/wattsten" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/austine-chisutia" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="austine chisutia" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/austineac" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="austine ac" height="30" width="40" />
-  </a>
-</p>
+## 📚 Some of My Projects
+- [Project 1](https://github.com/yourusername/project1) - Brief description of what this project does.
+- [Project 2](https://github.com/yourusername/project2) - Brief description of what this project does.
+- [Project 3](https://github.com/yourusername/project3) - Brief description of what this project does.
 
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <!-- Add other icons as per your requirements -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=austinechisutia&show_icons=true&locale=en&layout=compact" alt="austinechisutia" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=austinechisutia&show_icons=true&locale=en" alt="austinechisutia" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austinechisutia&" alt="austinechisutia" />
-</p>
+## 🎉 Thank You for Visiting!
+Feel free to explore my repositories and reach out if you have any questions or just want to chat!
