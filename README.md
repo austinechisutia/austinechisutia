@@ -30,13 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinechisutia&layout=compact&langs_count=8&theme=radical&hide=procfile&card_width=300"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austinechisutia&theme=radical&hide_border=true&background=45%2C1CEBE6%2C1C1CE6&stroke=FFFFFF&ring=FFC600&fire=FFC600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC600&sideLabels=FFC600&dates=9E9E9E" alt="GitHub Streak Stats" />
-</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=austinechisutia&theme=default&hide_border=true&background=FFFFFF&stroke=1DA1F2&ring=1DA1F2&fire=1DA1F2&currStreakNum=000000&sideNums=000000&currStreakLabel=1DA1F2" alt="GitHub Streak Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=austinechisutia&theme=dark&hide_border=true&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFA500" alt="GitHub Streak Stats" />
 
 <!-- Snake eating contribution graph -->
 
@@ -46,6 +40,38 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=austinechisutia&theme=radical&no-frame=true&row=3&column=3&rank=A,B,C)
 
 
+
+## 🏆 Achievements
+
+### GitHub
+[![Achievements](https://github-profile-trophy.vercel.app/?username=austinechisutia&theme=radical&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Certifications
+<details>
+<summary>📜 View Certifications</summary>
+  
+- **AWS Certified Cloud Practitioner** (Expected 2024)  
+- **Google IT Support Professional Certificate** (2023)  
+- **FreeCodeCamp Front End Certification** (2022)  
+</details>
+
+### Hackathons & Competitions
+<details>
+<summary>🏅 View Awards</summary>
+  
+- **1st Place** - Local Hack Day (2023)  
+- **Top 10** - National Coding Challenge (2022)  
+- **Best UI Award** - University Hackathon (2021)  
+</details>
+
+### Open Source Contributions
+<details>
+<summary>🌍 View Contributions</summary>
+  
+- Contributed to [Project Name] (Fixed bug #123)  
+- Reported critical vulnerability in [Library Name]  
+- Maintainer of [Your Project] (50+ stars)  
+</details>
 ## 🌱 Current Projects
 
 - 🔥 [Project Name](https://github.com/austinechisutia/project) - Short description
