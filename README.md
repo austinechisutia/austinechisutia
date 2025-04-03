@@ -1,4 +1,3 @@
-![GitHub Banner](https://your-image-url.com/banner.png)
 
 # 👋 Hello, I'm Austine Akhonya!
 
