@@ -30,8 +30,9 @@
 
 ## 📊 GitHub Stats
 
-![Austine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustineAkhonya&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustineAkhonya&layout=compact&theme=dark)
+![Austine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustineAkhonya&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustineAkhonya&layout=compact&theme=dark&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=AustineAkhonya&theme=dark)
 
 ---
 
