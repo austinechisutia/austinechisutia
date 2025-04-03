@@ -41,7 +41,8 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=austinechisutia&theme=radical&no-frame=true&row=2&column=3&rank=B)
+![Trophies](https://github-profile-trophy.vercel.app/?username=austinechisutia&theme=radical&no-frame=true&row=3&column=3&rank=A,B,C)
+
 
 ## 🌱 Current Projects
 
