@@ -98,7 +98,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-85%25-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-7%25-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-75%25-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-5%25-FF9900?style=flat-square&logo=aws&logoColor=white" />
 </p>
 
@@ -110,5 +110,4 @@
 ```text
 🚀 Weekly Development Breakdown:
 • JavaScript   ████████████████████░░░░   78.21%
-• Python       ██████▓░░░░░░░░░░░░░░░░░   18.43%
 • HTML/CSS     █▒░░░░░░░░░░░░░░░░░░░░░░   3.36%
