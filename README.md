@@ -24,7 +24,10 @@
   </a>
 </p>
 
-<p align="center">🚀 Frontend developer & full-stack enthusiast. I build interactive web experiences, eCommerce platforms, and smooth animations that users love.</p>
+<p align="center">
+🚀 Frontend Developer & Full-Stack Enthusiast.  
+I build interactive web experiences, scalable eCommerce platforms, and smooth animations that users love.
+</p>
 
 ---
 
@@ -32,21 +35,21 @@
 
 ### 🖥️ Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 ### 🛠️ Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-00C04B?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
@@ -72,22 +75,22 @@
 
 ## 🏆 Achievements
 
-### Certifications
+### 📜 Certifications
 <details>
-<summary>📜 View Certifications</summary>
-  
+<summary>View Certifications</summary>
+
 - **Google IT Support Professional Certificate** (2023)  
-- **FreeCodeCamp Front End Certification** (2022)  
+- **FreeCodeCamp Front End Certification** (2022)
 
 </details>
 
-### Hackathons & Competitions
+### 🏅 Hackathons & Competitions
 <details>
-<summary>🏅 View Awards</summary>
-  
+<summary>View Awards</summary>
+
 - **1st Place** - Local Hack Day (2023)  
 - **Top 10** - National Coding Challenge (2022)  
-- **Best UI Award** - University Hackathon (2021)  
+- **Best UI Award** - University Hackathon (2021)
 
 </details>
 
@@ -96,11 +99,11 @@
 ## 🚀 Skills & Mastery
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-90%25-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-70%25-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-65%25-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud-15%25-FF9900?style=flat-square&logo=aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Animation-85%25-00C04B?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-65%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud-15%25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animation-85%25-00C04B?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
 ---
@@ -111,7 +114,7 @@
 ```text
 🚀 Weekly Development Breakdown:
 • JavaScript/TypeScript  ████████████████████░░░░   80%
-• React/Next.js          ████████████████░░░░░░░    65%
-• HTML/CSS/Sass          ██████░░░░░░░░░░░░░░░░    20%
-• Node.js/Express        ██████░░░░░░░░░░░░░░░░    20%
-• Firebase/Database      ████░░░░░░░░░░░░░░░░░░    15%
+• React/Next.js          ████████████████░░░░░░░   65%
+• HTML/CSS/Sass          ██████░░░░░░░░░░░░░░░░   20%
+• Node.js/Express        ██████░░░░░░░░░░░░░░░░   20%
+• Firebase/Database      ████░░░░░░░░░░░░░░░░░░   15%
